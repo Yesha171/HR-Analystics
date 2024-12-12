@@ -157,3 +157,13 @@
     - **SL %**:
         - X-Axis: `Date`
         - Y-Axis: `SL %`
+## Conclusion
+
+By following the outlined steps, we successfully cleaned and transformed the data for meaningful analysis. The dashboard provides key insights into employee work preferences and wellness, enabling Atliq to make data-driven decisions. 
+
+### Key Insights:
+1. The **Presence %**, **WFH %**, and **SL %** metrics offer a comprehensive view of employee attendance and preferences.
+2. The integration of slicers and dynamic visualizations allows for deeper analysis of trends across dates and employees.
+3. This dashboard can be further enhanced with predictive analytics and additional KPIs to support HR strategies and improve employee engagement.
+
+The approach ensures scalability for future data additions and supports Atliq in fostering a healthy and productive work environment.
